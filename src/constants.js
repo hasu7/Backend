@@ -1,1 +1,1 @@
-export const DB_NAME= "hardwatch"
+export const DB_NME= "hardwatch"
