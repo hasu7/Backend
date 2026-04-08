@@ -4,7 +4,7 @@ import mongoose from "mongoose";
 
 const connectDB = async () => {
   try {
-    const uri = "mongodb+srv://pankaj:pankaj67@cluster0.tzxhbya.mongodb.net";
+    const uri = "mongodb+srv://pankaj:pankaj106@cluster0.tzxhbya.mongodb.net";
 
     console.log("USING URI:", uri);
 
